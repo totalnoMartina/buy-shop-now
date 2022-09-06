@@ -1,1 +1,1 @@
-web: gunicorn macrameapp2022.wsgi
+web: gunicorn macrameproject.wsgi

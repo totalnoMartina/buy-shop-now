@@ -1,1 +1,1 @@
-web: gunicorn --pythonpath macrameapp2022 macrameapp2022.wsgi
+web: gunicorn macrameapp2022.wsgi
